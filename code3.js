@@ -5,6 +5,8 @@ gdjs.LoseCode.GDNewObjectObjects1= [];
 gdjs.LoseCode.GDNewObjectObjects2= [];
 gdjs.LoseCode.GDNewObject2Objects1= [];
 gdjs.LoseCode.GDNewObject2Objects2= [];
+gdjs.LoseCode.GDNewObject3Objects1= [];
+gdjs.LoseCode.GDNewObject3Objects2= [];
 
 gdjs.LoseCode.conditionTrue_0 = {val:false};
 gdjs.LoseCode.condition0IsTrue_0 = {val:false};
@@ -62,6 +64,8 @@ gdjs.LoseCode.GDNewObjectObjects1.length = 0;
 gdjs.LoseCode.GDNewObjectObjects2.length = 0;
 gdjs.LoseCode.GDNewObject2Objects1.length = 0;
 gdjs.LoseCode.GDNewObject2Objects2.length = 0;
+gdjs.LoseCode.GDNewObject3Objects1.length = 0;
+gdjs.LoseCode.GDNewObject3Objects2.length = 0;
 
 gdjs.LoseCode.eventsList0(runtimeScene);
 return;
